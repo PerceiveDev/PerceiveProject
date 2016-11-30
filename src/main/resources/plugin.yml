@@ -2,7 +2,7 @@ main: ${groupId}.${artifactId}.${name}
 name: ${name}
 version: ${version}
 description: ${description}
-author: [PerceiveDev]
+authors: [Perceive team]
 #depend: [PerceiveCore]
 #commands:
 #  ${artifactId}:
