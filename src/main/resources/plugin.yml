@@ -1,4 +1,4 @@
-main: ${groupId}.${artifactId}.${name}
+main: com.perceivedev.${artifactId}.${name}
 name: ${name}
 version: ${version}
 description: ${description}

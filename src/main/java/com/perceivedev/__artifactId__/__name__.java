@@ -1,4 +1,4 @@
-package ${groupId}.${artifactId};
+package com.perceivedev.${artifactId};
 
 import org.bukkit.plugin.java.JavaPlugin;
 
